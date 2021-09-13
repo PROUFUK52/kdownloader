@@ -1,0 +1,6 @@
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\KDownloader\KDownloader\obj\Debug\KDownloader.csprojResolveAssemblyReference.cache
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\KDownloader\KDownloader\bin\Debug\KDownloader.exe.config
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\KDownloader\KDownloader\bin\Debug\KDownloader.exe
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\KDownloader\KDownloader\bin\Debug\KDownloader.pdb
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\KDownloader\KDownloader\obj\Debug\KDownloader.exe
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\KDownloader\KDownloader\obj\Debug\KDownloader.pdb
